@@ -6,5 +6,5 @@ def square_array(array)
         new_numbers.push(array[count] * array[count])
         count += 1
     end
-    puts new_numbers 
+    p new_numbers 
 end
